@@ -1,2 +1,2 @@
 #livro de receitas
-- - essa bosta nao pega marcação de texto ne foda
+- - nao pega markdown no de texto :(
